@@ -1,0 +1,32 @@
+_repo: Mundanismos_30413
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Diniz, Almachio
+    aliases:
+    - Dinís, Almáquio
+    - Goncalves, Almachio Diniz
+    - Dinis, Almaquio
+    - Gonçalves, Almachio Diniz
+    birthdate: 1880
+    deathdate: 1937
+    gutenberg_agent_id: '34596'
+    url: http://www.gutenberg.org/2009/agents/34596
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2009-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30413'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Mundanismos
+url: http://www.gutenberg.org/ebooks/30413
